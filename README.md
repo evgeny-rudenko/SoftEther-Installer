@@ -29,13 +29,15 @@ wget --no-check-certificate -qO- "https://git.enjen.net/munzy/SoftEther-Installe
 
 ## Currently tested on:
 
+ - Ubunutu 16.04(x64)
  - Debian 8(x64)
  - Centos 7(x64)
 
 
 ## Currently does not work on:
 
-  Debian 9 -- Softether fails on make: https://github.com/SoftEtherVPN/SoftEtherVPN/issues/301
+  - Debian 9 -- Softether fails on make: https://github.com/SoftEtherVPN/SoftEtherVPN/issues/301
+  - Ubuntu 17.04 -- Same as Debian 9.
   
 ## Bugs
   
